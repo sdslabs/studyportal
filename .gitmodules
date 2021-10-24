@@ -1,0 +1,6 @@
+[submodule "studyportal-nexus"]
+	path = studyportal-nexus
+	url = git@github.com:sdslabs/studyportal-nexus.git
+[submodule "studyportal-axion"]
+	path = studyportal-axion
+	url = git@github.com:sdslabs/studyportal-axion.git
