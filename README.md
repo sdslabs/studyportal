@@ -36,11 +36,13 @@ We're accepting PRs for our open and unassigned [issues](https://github.com/sdsl
 Kindly follow the steps below to get started:
 
 **1.** Fork this repository
-> git clone https://github.com/sdslabs/studyportal
-
+```shell
+$ git clone https://github.com/sdslabs/studyportal
+```
 **2.** Pull submodules
-> git submodule update --init --recursive
-
+```shell
+$ git submodule update --init --recursive
+```
 **3.** Setup Axion and Nexus   
 Follow the setup guidelines for [Axion](https://github.com/sdslabs/studyportal-axion) and [Nexus](https://github.com/sdslabs/studyportal-nexus)
 
