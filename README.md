@@ -2,7 +2,7 @@
 
 > The solutions portal of IITR
 
-<img src="https://study.sdslabs.co/favicon.ico" alt="logo" height="150" style="margin-left: 50%; transform: translateX(-50%)" />
+<img src="https://study.sdslabs.co/favicon.ico" alt="logo" height="150" />
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/sdslabs/studyportal/blob/master/LICENSE.md) 
 [![Issues](https://img.shields.io/github/issues-raw/sdslabs/studyportal)](https://github.com/sdslabs/studyportal/issues) 
