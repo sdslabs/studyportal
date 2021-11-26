@@ -16,15 +16,11 @@
 
 Watch the intro video [here](https://www.facebook.com/SDSLabs/videos/410983967251810/)
 
-<br/>
-
 ## Contents
 
 * [Features](#features)
 * [Contributing](#contributing)
 * [Contact](#contact)
-
-<br/>
 
 ## Features
 
@@ -32,8 +28,6 @@ Watch the intro video [here](https://www.facebook.com/SDSLabs/videos/41098396725
 * Request and upload study materials
 * Google drive as a resource database
 * Personalised course dashboard
-
-<br/>
 
 ## Contributing
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)](https://github.com/dwyl/esta/issues)
@@ -52,13 +46,15 @@ $ git submodule update --init --recursive
 **3.** Setup Axion and Nexus   
 Follow the setup guidelines for [Axion](https://github.com/sdslabs/studyportal-axion) and [Nexus](https://github.com/sdslabs/studyportal-nexus)
 
-**4.** Make changes and raise a [PR](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request)
+**4.** Make changes and raise a [PR](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request) in appropriate repo (either studyportal-axion or studyportal-nexus)
 
 **5.** Congratulations! Sit and relax, you've made your contribution :)
-
-<br/>
 
 ## Contact
 If you have a query regarding the product or just want to say hello then feel free to visit [chat.sdslabs.co](https://chat.sdslabs.co/) or drop a mail at [contact@sdslabs,co.in](mailto:contact@sdslabs.co.in)  
 
 We encourage you to join our [discord](https://discord.gg/ch2ZJKzfh7) server and be a part of the community!
+
+----
+
+Made with :heart: by [SDSLabs](https://sdslabs.co/)
