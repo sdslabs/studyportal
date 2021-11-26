@@ -5,5 +5,5 @@
 	path = studyportal-axion
 	url = git@github.com:sdslabs/studyportal-axion.git
 [submodule "studyportal-utils"]
-	path = studyportal-axion
+	path = studyportal-utils
 	url = git@github.com:sdslabs/studyportal-utils.git
