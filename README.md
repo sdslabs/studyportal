@@ -51,7 +51,7 @@ Follow the setup guidelines for [Axion](https://github.com/sdslabs/studyportal-a
 **5.** Congratulations! Sit and relax, you've made your contribution :)
 
 ## Contact
-If you have a query regarding the product or just want to say hello then feel free to visit [chat.sdslabs.co](https://chat.sdslabs.co/) or drop a mail at [contact@sdslabs,co.in](mailto:contact@sdslabs.co.in)  
+If you have a query regarding the product or just want to say hello then feel free to visit [chat.sdslabs.co](https://chat.sdslabs.co/) or drop a mail at [contact@sdslabs.co.in](mailto:contact@sdslabs.co.in)  
 
 We encourage you to join our [discord](https://discord.gg/ch2ZJKzfh7) server and be a part of the community!
 
